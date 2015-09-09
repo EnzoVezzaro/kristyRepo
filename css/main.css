@@ -2721,13 +2721,13 @@ body {
       .nav-home-mobile .link-nav-mobile #item4 a {
         color: white; }
     .nav-home-mobile .link-nav-mobile #item1 {
-      background-image: url(../images/beaty/german-love-padlock.jpg); }
+      background-image: url(kristyRepo/images/beaty/german-love-padlock.jpg); }
     .nav-home-mobile .link-nav-mobile #item2 {
-      background-image: url(../images/beaty/german-love-padlock.jpg); }
+      background-image: url(kristyRepo/images/beaty/german-love-padlock.jpg); }
     .nav-home-mobile .link-nav-mobile #item3 {
-      background-image: url(../images/beaty/german-love-padlock.jpg); }
+      background-image: url(kristyRepo/images/beaty/german-love-padlock.jpg); }
     .nav-home-mobile .link-nav-mobile #item4 {
-      background-image: url(../images/beaty/german-love-padlock.jpg); } }
+      background-image: url(kristyRepo/images/beaty/german-love-padlock.jpg); } }
 
 .out-slider {
   display: -webkit-flex;
@@ -2811,7 +2811,7 @@ body {
       height: 240px;
       background: no-repeat center;
       background-size: cover;
-      background-image: url("../images/index/blog/beauty-eye-fashion-3121.jpg");
+      background-image: url("kristyRepo/images/index/blog/beauty-eye-fashion-3121.jpg");
       display: -webkit-flex;
       display: flex;
       -webkit-align-items: flex-end;
@@ -2841,7 +2841,7 @@ body {
       height: 240px;
       background: no-repeat center;
       background-size: cover;
-      background-image: url("../images/index/blog/beauty-eye-girl-3119.jpg");
+      background-image: url("kristyRepo/images/index/blog/beauty-eye-girl-3119.jpg");
       display: -webkit-flex;
       display: flex;
       -webkit-align-items: flex-start;
@@ -2850,7 +2850,7 @@ body {
       height: 240px;
       background: no-repeat center;
       background-size: cover;
-      background-image: url("../images/index/blog/beauty-lipstick-3144.jpg");
+      background-image: url("kristyRepo/images/index/blog/beauty-lipstick-3144.jpg");
       display: -webkit-flex;
       display: flex;
       -webkit-align-items: flex-end;
@@ -2859,7 +2859,7 @@ body {
       height: 240px;
       background: no-repeat center;
       background-size: cover;
-      background-image: url("../images/index/blog/beauty-lipstick-make-up-3123.jpg");
+      background-image: url("kristyRepo/images/index/blog/beauty-lipstick-make-up-3123.jpg");
       display: -webkit-flex;
       display: flex;
       -webkit-justify-content: flex-end;
@@ -2879,7 +2879,7 @@ body {
       height: 240px;
       background: no-repeat center;
       background-size: cover;
-      background-image: url("../images/index/blog/PFDHUN2MLE.jpg");
+      background-image: url("kristyRepo/images/index/blog/PFDHUN2MLE.jpg");
       display: flex;
       -webkit-align-items: flex-end;
               align-items: flex-end; }
