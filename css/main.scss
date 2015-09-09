@@ -1,0 +1,25 @@
+// bower:scss
+// endbower
+
+//tools
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";
+@import "animate/animate";
+
+// sass modules
+@import "app/css/sass/main";
+@import "app/css/sass/header";
+@import "app/css/sass/slideshow";
+@import "app/css/sass/posts";
+@import "app/css/sass/products";
+@import "app/css/sass/socialCTA";
+@import "app/css/sass/instagramPosts";
+@import "app/css/sass/subscription";
+@import "app/css/sass/footer";
+
+//fonts
+@font-face {
+    font-family:"Riesling";
+    src: url("../fonts/riesling.ttf") /* TTF file for CSS3 browsers */
+}
